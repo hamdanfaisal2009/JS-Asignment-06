@@ -63,5 +63,4 @@ console.log(bgNum);
 
 // --------- End of Find bigger number in array ---------
 
-
 // ------------------------------------------------ ASSIGNMENT COMPLETED ------------------------------------------------
